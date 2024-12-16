@@ -70,12 +70,7 @@ Contributions are highly appreciated! If you want to contribute:
    ```
 5. Create a Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Support
-If you have any questions or issues, feel free to open an [issue](https://github.com/username/repo-name/issues) in this repository.
 
 ## Author
-Developed by [Your Name](https://github.com/username). Feel free to contact me via email or GitHub if you have any feedback or ideas!
+Developed by XXndrew-mr. Feel free to contact me via email or GitHub if you have any feedback or ideas!
 
